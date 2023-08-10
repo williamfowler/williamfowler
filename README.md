@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! 👋
 
 <!--
 **williamfowler/williamfowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I am William Fowler, a computer science student from Alexandria, VA
+
+I am interested in working on cool ML projects, like when I tried to make a model to predict March Madness tournament outcomes (didn't work out so well). I am always looking for new things to experiment with in the realm of computer science.
+
+## Tools I Have Used
